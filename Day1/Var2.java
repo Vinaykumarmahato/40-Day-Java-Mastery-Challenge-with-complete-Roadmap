@@ -1,17 +1,11 @@
 package Day1;
 
-public class Solution1 {
-
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+public class Var2 {
+	public static void main(String args[]) {
 		
-		int a=29;
-		String name="Vinay Kumar java developer";
+		System.out.println("Hellow World");
 		
-		System.out.println(name);
-		System.out.println(a);
-				
-
+		
 	}
 
 }

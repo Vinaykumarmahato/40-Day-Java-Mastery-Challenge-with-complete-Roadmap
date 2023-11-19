@@ -1,4 +1,7 @@
-# 40-Day-Java-Mastery-Challenge-with-complete-Roadmap
+# 🚀 40-Day Java Mastery Challenge with Complete Roadmap 🗺️
+![GitHub Logo](https://github.com/ADVindiancoder/40-Day-Java-Mastery-Challenge-with-complete-Roadmap/blob/main/Blue%20%26%20White%20Practical%20Uses%20of%20AI%20in%20EFL%20Presentation%20(17).png
+)
+
 
 Welcome to my Java Skills Revision Roadmap! Join me on this incredible journey as I dive deep into the world of Java. If you're interested in tracking my progress or exploring the code associated with this challenge, you can check out my GitHub activity at [ADVindiancoder](https://github.com/ADVindiancoder).
 
